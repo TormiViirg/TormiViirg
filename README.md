@@ -4,16 +4,16 @@
 
 I am a software developer from Tallinn University. I'm a fullstack web developer that can handle everything from automated testing, cloud deployments, various backend languges, frontend frameworks and even design.
 
-As it's my third year of my BSc Informatics(Software engineering) degree and I'm currently looking for work or internship opportunities as a web developer, data scientist. My CV is here. Connect with me on LinkedIn 
+As it's my third year of my BSc Informatics(Software engineering) degree and I'm currently looking for work or internship opportunities as a web developer, data scientist.
+
+My CV is here: https://tinyurl.com/TormiCV
+
+Connect with me on LinkedIn https://www.linkedin.com/in/tormi-viirg/
 
 Due to my love of art, active involment in many crafts and choosing datascience and digital media electives to suplement my more holistic web develovpment focused and math heavy education, I have also been dabbling in designing, planning and developing advanced interface components. More on that on my portfolio site: TBA
 
-My resume/CV in both Estonian and English can be found here: TBA But since I usually tailor my CV to whatever position I'm appling for a more complete and concrete overview can be found on my portfolio site: TBA
-
-
 ## Skills
 I am comfortable with the following technologies and tools:
-
 
 ## Programming languages and frameworks
 
