@@ -10,10 +10,14 @@ My CV is here: https://tinyurl.com/TormiCV
 
 Connect with me on LinkedIn https://www.linkedin.com/in/tormi-viirg/
 
+Notable figma work:
+https://tinyurl.com/ProovikiviUI From scratch
+https://tinyurl.com/WiseHackathon UI redesign following brand guidelines, meant to fit in and not be disruptive.
+
 Due to my love of art, active involment in many crafts and choosing datascience and digital media electives to suplement my more holistic web develovpment focused and math heavy education, I have also been dabbling in designing, planning and developing advanced interface components. More on that on my portfolio site: TBA
 
-## Skills
-I am comfortable with the following technologies and tools:
+# Skills
+## I am comfortable with the following technologies and tools:
 
 ## Programming languages and frameworks
 
@@ -66,6 +70,8 @@ SolidEdge, AutoCad, Fusion 360
 ### Audio Visual: 
 
 Adobe Premiere Pro, Audition, DaVinci Resolve, Reaper, LiveEdit, OBS, ReShade
+
+# Interesting Projects
 
 ## Currently learning how to: 
 
