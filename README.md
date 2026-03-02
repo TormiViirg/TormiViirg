@@ -4,7 +4,7 @@
 
 I am a software developer from Tallinn University. I'm a fullstack web developer that can handle everything from automated testing, cloud deployments, various backend languges, frontend frameworks and even design.
 
-As it's my third year of my BSc Informatics(Software engineering) degree and I'm currently looking for work or internship opportunities as a web developer, data scientist.
+As it's my third year of my BSc Informatics(Software engineering) degree and I'm currently looking for work or internship opportunities. 
 
 My CV is here: https://tinyurl.com/TormiCV
 
@@ -61,7 +61,7 @@ Blender, Meshroom, Unity
 
 ### Datascience:
 
-Power BI, ArcGIS
+Power BI, ArcGIS, Excel, self develovped custom tooling 
 
 ### Industrial design:
 
