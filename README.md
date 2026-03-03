@@ -14,13 +14,15 @@ Connect with me on LinkedIn https://www.linkedin.com/in/tormi-viirg/
 
 Notable figma work:
 
+From scratch, with ux studies:
+
 https://tinyurl.com/ProovikiviUI
 
-From scratch
+UI redesign following brand guidelines, meant to fit in and not be disruptive.
 
 https://tinyurl.com/WiseHackathon 
 
-UI redesign following brand guidelines, meant to fit in and not be disruptive. Goal was to redesign the UI so the users could vote on what kind of charity Wise allocates the company's money towards and to incentivize responsible fiscal behaviour by moving money to their savings account.
+Goal was to redesign the UI so the users could vote on what kind of charity Wise allocates the company's money towards and to incentivize responsible fiscal behaviour by moving money to their savings account.
 
 # Skills
 ## I am comfortable with the following technologies and tools:
