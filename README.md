@@ -2,9 +2,9 @@
 
 ### My name is Tormi Viirg
 
-I am a software developer from Tallinn University. I'm a fullstack web developer that can handle everything from automated testing, cloud deployments, various backend languges, frontend frameworks and even design.
+I am a software developer from Tallinn University. I'm a fullstack web developer that can handle everything from automated testing, cloud deployments, various backend languges, frontend frameworks and even design. Great at data science and color science alongside anything hardware or digital media related.
 
-Due to my love of art, active involment in many crafts and choosing datascience and digital media electives to suplement my more holistic web develovpment focused and math heavy education, I have also been dabbling in designing, planning and developing advanced interface components. 
+Due to my love of art, active involment in many crafts and choosing datascience and digital media electives to suplement my more holistic web develovpment focused and math heavy education, I have also been dabbling in designing, planning and developing advanced interface components.  
 
 As it's my third year of my BSc Informatics(Software engineering) degree and I'm currently looking for work or internship opportunities. 
 
@@ -101,7 +101,6 @@ Worst case scenario for the medium, specially chosen to pressure test if the use
 ![20251202_153221](https://github.com/user-attachments/assets/02f88d9f-9e73-4a2c-b5df-7099afedbeb9)
 
 ![20251202_154940](https://github.com/user-attachments/assets/e8d66581-7980-4304-9b53-3c0aa9b58c5d)
-<img width="597" height="797" alt="Screenshot 2025-12-14 143027" src="https://github.com/user-attachments/assets/407dc91b-eafd-4729-bdae-e15750b61e55" />
 
 <img width="1180" height="892" alt="Screenshot 2025-12-05 150844" src="https://github.com/user-attachments/assets/b07274f2-52db-478f-a44a-8daefdca583b" />
 
@@ -133,7 +132,7 @@ JavaScript, TypeScript, Node.js, React, Express.js, jQuery, Leaflet, Google Apps
 
 ### Datascience and data analysis, machine learning:
 
-Python, SQL, Pandas, Stanza, Scikit-Learn, R, Google Apps Script, MATLAB, C++, C
+Python, SQL, Pandas, Stanza, Scikit-Learn, matplotlib, R, Google Apps Script, MATLAB, C++, C
 
 ### Software testing, data scraping and automation:
 
@@ -174,6 +173,9 @@ SolidEdge, AutoCad, Fusion 360
 ### Audio Visual: 
 
 Adobe Premiere Pro, Audition, DaVinci Resolve, Reaper, LiveEdit, OBS, ReShade
+
+![Screenshot_20260319_164731_Gallery](https://github.com/user-attachments/assets/4114112c-ca1e-46f2-a2f7-2c2f175cefd1)
+Massive thanks to the  organizers of Eesti laul 2026, eventech and ERR for letting me work as a camera operators assistant. The expirience was truly magical, even if it included dodging flamethrowing guitars and pyrotechical equpment while running through crowds while setting hundreds of meters of cable. Maybe bacause of that.
 
 ## Currently learning: 
 
