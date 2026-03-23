@@ -116,7 +116,7 @@ Java: Spring Boot, C#: .NET, Python: Flask
 
 ### Frontend:
 
-JavaScript, TypeScript, Node.js, React, Express.js, webpack, sass, jQuery, Leaflet, Google Apps Script,
+JavaScript, TypeScript, Node.js, React, Express.js, webpack, vite, sass, jQuery, Leaflet, Google Apps Script,
 
 ### Datascience and data analysis, machine learning:
 
@@ -124,7 +124,7 @@ Python, SQL, Pandas, Stanza, Scikit-Learn, matplotlib, R, Google Apps Script, MA
 
 ### Software testing, data scraping and automation:
 
-Robot Framework, Selenium, Apache JMeter, PowerShell, Python
+Robot Framework, Selenium, PowerShell, Python
 
 ### Hardware:
 
@@ -146,7 +146,7 @@ Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Blender.
 
 With expirience developing custom advanced plugins with Adobe UXP, including with C++.
 
-Notable figma work:
+Notable Figma work:
 
 From scratch, with ux studies:
 
@@ -156,7 +156,7 @@ UI redesign following brand guidelines, meant to fit in and not be disruptive.
 
 https://tinyurl.com/WiseHackathon 
 
-Goal was to redesign the UI so the users could vote on what kind of charity Wise allocates the company's money towards and to incentivize responsible fiscal behaviour by moving money to their savings account.
+The goal was to redesign the UI so the users could vote on what kind of charity Wise allocates the company's money towards and to incentivize responsible fiscal behaviour by moving money to their savings account.
 
 ### 3D moddeling and animation: 
 
@@ -165,6 +165,10 @@ Blender, Meshroom, Unity
 ### Datascience:
 
 Power BI (with in-app Python scripting), ArcGIS, Google Workspace apps(with Google App Scripts)  
+
+### Cloud
+
+Azure, Zone
 
 ### Industrial design:
 
