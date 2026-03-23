@@ -12,18 +12,6 @@ My CV is here: https://tinyurl.com/TormiCV
 
 Connect with me on LinkedIn https://www.linkedin.com/in/tormi-viirg/
 
-Notable figma work:
-
-From scratch, with ux studies:
-
-https://tinyurl.com/ProovikiviUI
-
-UI redesign following brand guidelines, meant to fit in and not be disruptive.
-
-https://tinyurl.com/WiseHackathon 
-
-Goal was to redesign the UI so the users could vote on what kind of charity Wise allocates the company's money towards and to incentivize responsible fiscal behaviour by moving money to their savings account.
-
 # Interesting Projects
 
 ## Color Picker Plugin
@@ -128,7 +116,7 @@ Java: Spring Boot, C#: .NET, Python: Flask
 
 ### Frontend:
 
-JavaScript, TypeScript, Node.js, React, Express.js, jQuery, Leaflet, Google Apps Script
+JavaScript, TypeScript, Node.js, React, Express.js, webpack, sass, jQuery, Leaflet, Google Apps Script,
 
 ### Datascience and data analysis, machine learning:
 
@@ -156,7 +144,19 @@ PostgreSQL, MySQL: MariaDB, Transact-SQL : MS SQL Server, SPARQL
 
 Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Blender.
 
-With expirience developing custom advanced plugins with Adobe UXP including with C++.
+With expirience developing custom advanced plugins with Adobe UXP, including with C++.
+
+Notable figma work:
+
+From scratch, with ux studies:
+
+https://tinyurl.com/ProovikiviUI
+
+UI redesign following brand guidelines, meant to fit in and not be disruptive.
+
+https://tinyurl.com/WiseHackathon 
+
+Goal was to redesign the UI so the users could vote on what kind of charity Wise allocates the company's money towards and to incentivize responsible fiscal behaviour by moving money to their savings account.
 
 ### 3D moddeling and animation: 
 
