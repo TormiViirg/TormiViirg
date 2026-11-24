@@ -6,8 +6,6 @@ I am a software developer from Tallinn University. I'm a fullstack web developer
 
 Due to my love of art, active involment in many crafts and choosing datascience and digital media electives to suplement my more holistic web develovpment focused and math heavy education, I have also been dabbling in designing, planning and developing advanced interface components.  
 
-As it's my third year of my BSc Informatics(Software engineering) degree and I'm currently looking for work or internship opportunities. 
-
 My CV is here: https://tinyurl.com/TormiCV
 
 Connect with me on LinkedIn https://www.linkedin.com/in/tormi-viirg/
@@ -68,7 +66,7 @@ https://github.com/TormiViirg/Elroni-osaline-andmebaas
 
 ## DIY projector
 
-Made from upcycled stuff from ebay and scrapwood without any plans.
+Made from upcycled stuff from ebay and scrapwood without predrawn plans using only the constraints posed by the hardware and ratios during the building process as a exercise.
 
 <img width="541" height="960" alt="image" src="https://github.com/user-attachments/assets/822293a0-648b-439e-a097-eff814898a8e" />
 
@@ -112,11 +110,11 @@ https://drive.google.com/file/d/1512ZAkH985jzXh5o5HkbDGJ_sabctP9q/view?usp=shari
 
 ### Backend:
 
-Java: Spring Boot, C#: .NET, Python: Flask
+Java: Spring Boot with oAuth, Modulith with Ports and Adapters architecture, C#: .NET, Python: Flask, Node.js, Express.js Next.js
 
 ### Frontend:
 
-JavaScript, TypeScript, Node.js, React, Express.js, webpack, vite, sass, jQuery, Leaflet, Google Apps Script,
+JavaScript, TypeScript, React, webpack, vite, sass, jQuery, Leaflet, Google Apps Script, XState
 
 ### Datascience and data analysis, machine learning:
 
@@ -124,7 +122,7 @@ Python, SQL, Pandas, Stanza, Scikit-Learn, matplotlib, R, Google Apps Script, MA
 
 ### Software testing, data scraping and automation:
 
-Robot Framework, Selenium, PowerShell, Python
+Robot Framework, Selenium, PowerShell, Python, PlayWright, MailChimp
 
 ### Hardware:
 
@@ -144,7 +142,7 @@ PostgreSQL, MySQL: MariaDB, Transact-SQL : MS SQL Server, SPARQL
 
 Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Blender.
 
-With expirience developing custom advanced plugins with Adobe UXP, including with C++.
+With expirience developing custom advanced plugins with Adobe UXP, including with C++. Also I have developed plugins for Chrome and Figma.
 
 Notable Figma work:
 
@@ -164,11 +162,11 @@ Blender, Meshroom, Unity
 
 ### Datascience:
 
-Power BI (with in-app Python scripting), ArcGIS, Google Workspace apps(with Google App Scripts)  
+Power BI (with in-app Python scripting), Google Workspace apps(with Google App Scripts), Google OR tools,  
 
 ### Cloud
 
-Azure, Zone
+Azure, Zone, Digital Ocean, Docker
 
 ### Industrial design:
 
