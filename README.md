@@ -5,7 +5,7 @@
 I am a software developer from Tallinn University. I'm a fullstack web developer that can handle everything from automated testing, cloud deployments, various backend languges, frontend frameworks and even design. Great at data science and color science alongside anything hardware or digital media related.
 
 Due to my love of art, active involment in many crafts and choosing datascience and digital media electives to suplement my more holistic web develovpment focused and math heavy education, I have also been dabbling in designing, planning and developing advanced interface components.  
-
+My portfolio is here: https://tormiviirg.vercel.app
 My CV is here: https://tinyurl.com/TormiCV
 
 Connect with me on LinkedIn https://www.linkedin.com/in/tormi-viirg/
